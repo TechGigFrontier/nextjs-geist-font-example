@@ -1,0 +1,30 @@
+# Project Plan for Book Bytes Website
+
+## 1. Setup Database
+- Create MySQL database
+- Create tables:
+  - Users: id, username, password, email
+  - Book Summaries: id, title, author, description, image, content
+
+## 2. Develop Frontend
+- Home Page:
+  - Structure with Tailwind CSS
+  - Cards for each book summary
+- Book Summary Page:
+  - Text-to-speech control
+  - Highlighting and scrolling functionality
+
+## 3. Implement Text-to-Speech
+- Use JavaScript for voice control
+- Integrate speed control and wave visualization
+
+## 4. Create Admin Panel
+- Develop CRUD operations for book summaries
+- User management features
+
+## 5. User Authentication
+- Implement registration, login, and password reset functionality
+
+## 6. Testing
+- Ensure all features work as expected
+- Test responsiveness and accessibility
